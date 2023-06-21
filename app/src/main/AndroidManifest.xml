@@ -19,6 +19,9 @@
         android:theme="@style/Theme.FaceBookLogin"
         tools:targetApi="31">
         <activity
+            android:name=".Github_activity"
+            android:exported="false" />
+        <activity
             android:name=".UPI_payment"
             android:exported="true">
             <intent-filter>
@@ -29,9 +32,7 @@
         </activity>
         <activity
             android:name=".Payment_Gateway"
-            android:exported="true">
-
-        </activity>
+            android:exported="true"></activity>
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
@@ -58,7 +59,7 @@
         </activity>
         <activity
             android:name=".MyFacebook_login"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".PayUPaymentActivity"
             android:exported="true" />
