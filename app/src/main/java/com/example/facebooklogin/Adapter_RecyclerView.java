@@ -14,7 +14,7 @@ public class Adapter_RecyclerView extends AppCompatActivity {
 //  hello
 // Hi
 
-
+//hello mam
         //aaaaaaaaaa
     }
 }
