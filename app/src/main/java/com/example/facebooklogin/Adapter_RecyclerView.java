@@ -11,7 +11,8 @@ public class Adapter_RecyclerView extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_adapter_recycler_view);
 
-        //Hi
+//  hello
+// Hi
 
 
         //aaaaaaaaaa
